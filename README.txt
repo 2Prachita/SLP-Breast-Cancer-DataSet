@@ -1,6 +1,4 @@
-The data set used is DIABETIC R2
-
-It consits of 10 columns of which 9 are attributes to distinguish bet types of diabetic person
+It consits of 10 columns of which 9 are attributes to distinguish bet types of breast cancer person
 and the 10 column consist of output to which class the person belongs 
 
 - Age	
